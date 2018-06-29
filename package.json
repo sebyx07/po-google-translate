@@ -1,0 +1,32 @@
+{
+  "name": "po-google-translate",
+  "version": "1.0.0",
+  "description": "Free google po translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sebyx07/po-google-translate.git"
+  },
+  "keywords": [
+    "po",
+    "google",
+    "translate",
+    "free",
+    "po",
+    "translate"
+  ],
+  "author": "sebyx07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebyx07/po-google-translate/issues"
+  },
+  "homepage": "https://github.com/sebyx07/po-google-translate#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "google-translate-api": "^2.3.0",
+    "pofile": "^1.0.11"
+  }
+}
